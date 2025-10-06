@@ -891,4 +891,3 @@ The biggest remaining problem with the Expense Tracker (and most simple remote s
 * **What's Next?:** The upcoming videos will delve into **advanced MCP features** like authentication, sampling, and elicitation to solve this problem and make truly secure and personalized AI tools.
 
 ---
-**Video Link:** [How to Build & Deploy Remote MCP Servers | MCP Trilogy | CampusX](https://www.youtube.com/watch?v=GF7-ZzUausU)
