@@ -87,7 +87,6 @@ The entire process of creating an AI newsletter, from research to design, can be
 
 ---
 
-**Video Link:** [Model Context Protocol | Mini Playlist | MCP Trilogy | CampusX](https://www.youtube.com/watch?v=3_TN1i3MTEU)
 
 ---
 
@@ -225,7 +224,6 @@ MCP is growing super fast because of a "network effect":
 
 ---
 
-**Video Link:** [Model Context Protocol - The Why | MCP Trilogy | CampusX](https://www.youtube.com/watch?v=Zmy439spZB4)
 
 ---
 
@@ -423,7 +421,6 @@ This architecture is designed for safety, scalability, and flexibility, making A
 
 ---
 
-**Video Link:** [MCP Architecture | Model Context Protocol Architecture | CampusX](https://www.youtube.com/watch?v=nQa31xdXbGk)
 
 ---
 
@@ -545,7 +542,6 @@ Sometimes, things don't go exactly as planned. MCP has ways to handle these:
     * **Benefit:** Provides a better user experience by showing a real-time progress bar (like when an AI assistant is doing research).
 
 ---
-**Video Link:** [The MCP Lifecycle | MCP Trilogy | CampusX](https://www.youtube.com/watch?v=sBHeMcxupmE)
 
 ---
 
@@ -632,7 +628,6 @@ There are two main ways to connect an MCP Server to Claude Desktop:
 If you're looking for more MCP Servers to connect, search for "**Awesome MCP Servers**" on Google! You'll find a GitHub repository with an updated list of many different MCP Servers, categorized for easy discovery. This is a great resource to explore and find tools that can help you automate your workflows with AI!
 
 ---
-**Video Link:** [Model Context Protocol | The How | How to connect MCP Servers to Claude Desktop | CampusX](https://www.youtube.com/watch?v=y-uPv3ltOTY)
 
 ---
 
@@ -751,7 +746,6 @@ The video also discusses an advanced feature: the compatibility between **`fast-
 This video is an excellent practical guide to building your own local MCP servers, equipping you with the skills to extend the capabilities of your AI tools! The next video will cover building remote MCP servers.
 
 ---
-**Video Link:** [How to Build Local MCP Servers | MCP Trilogy | CampusX](https://www.youtube.com/watch?v=tc2oOznpdE0)
 
 ---
 
